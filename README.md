@@ -13,7 +13,7 @@
 | 김종근 | [@Bellroute](https://github.com/Bellroute) |
 | 김현우 | [@java-saeng](https://github.com/java-saeng) |
 | 홍동건 | [@Hongdonggeon](https://github.com/Hongdonggeon) |
-| 이성혁 | [@sunghyuki](https://github.com/sunghyuki) |
+| 김성혁 | [@sunghyuki](https://github.com/sunghyuki) |
 | 채상엽 | [@saint6839](https://github.com/saint6839) |
 
 # 규칙
