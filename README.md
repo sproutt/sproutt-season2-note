@@ -9,6 +9,7 @@
 
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
+| 이혁진(대장) | [@hyukjin-lee](https://github.com/hyukjin-lee) |
 | 최진영 | [@kanamycine](https://github.com/kanamycine) |
 | 김종근 | [@Bellroute](https://github.com/Bellroute) |
 | 김현우 | [@java-saeng](https://github.com/java-saeng) |
