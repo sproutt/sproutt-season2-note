@@ -20,8 +20,7 @@
 
 ### MVP 게시물 선정 방식
 - 매주마다 유익하거나 설명이 잘 된 글을 투표하여 **MVP** 선정
-- 새싹 블로그에 게시
-- [새싹 블로그](https://velog.io/@sproutt)
+- [새싹 블로그](https://velog.io/@sproutt)에 게시
 
 
 # Let's Go !
