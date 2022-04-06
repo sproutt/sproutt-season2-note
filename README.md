@@ -39,7 +39,14 @@
 ## 웹을 지탱하는 기술
 | 주차 | 이름 | 공유 Link | MVP 여부 |
 | --- | --- | -------- | ------- |
-| 1주차 | 최진영 | https://url.kr/8nrh4z| |
+| 1주차 | 최진영 | https://url.kr/t5nklj | |
+| 2주차 | 최진영 | https://url.kr/4acxq3 | |
+| 3주차 | 최진영 | https://url.kr/4lyu6z | |
+| 4주차 | 최진영 | https://url.kr/dm23cn | |
+| 5주차 | 최진영 | https://url.kr/z52ae4 | |
+| 6주차 | 최진영 | https://url.kr/8ivflh | |
+| 7주차 | 최진영 | https://url.kr/vg5eho | |
+| 8주차 | 최진영 | https://url.kr/8nrh4z | |
 
 ## 책 스터디 서기록
 | 주차 | 공유 Link |
