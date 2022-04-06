@@ -27,7 +27,14 @@
 ## 모던 자바 인 액션
 | 주차 | 이름 | 공유 Link | MVP 여부 |
 | --- | --- | -------- | ------- |
-| 1주차 | 최진영 |https://url.kr/dtbi94 | |
+| 1주차 | 최진영 | https://url.kr/ob6lf2 | |
+| 2주차 | 최진영 | https://url.kr/eg5py2 | |
+| 3주차 | 최진영 | https://url.kr/v9mfi8 | |
+| 4주차 | 최진영 | https://url.kr/w87u6h | |
+| 5주차 | 최진영 | https://url.kr/sn1wbu | |
+| 6주차 | 최진영 | https://url.kr/togh4m | |
+| 7주차 | 최진영 | https://url.kr/q3lafx | |
+| 8주차 | 최진영 | https://url.kr/dtbi94 | |
 
 ## 웹을 지탱하는 기술
 | 주차 | 이름 | 공유 Link | MVP 여부 |
