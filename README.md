@@ -32,49 +32,49 @@
 | 1주차 | 김현우 | | |
 | 1주차 | 홍동건 | | |
 | 1주차 | 김성혁 | | |
-| 1주차 | 채상엽 | | |
+| 1주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/02/13/Modern-Java-In-Action-Study-01.html | |
 | 2주차 | 최진영 | https://url.kr/eg5py2 | |
 | 2주차 | 김종근 | | |
 | 2주차 | 김현우 | | |
 | 2주차 | 홍동건 | | |
 | 2주차 | 김성혁 | | |
-| 2주차 | 채상엽 | | |
+| 2주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/02/18/Modern-Java-In-Action-Study-02.html| |
 | 3주차 | 최진영 | https://url.kr/v9mfi8 | |
 | 3주차 | 김종근 | | |
 | 3주차 | 김현우 | | |
 | 3주차 | 홍동건 | | |
 | 3주차 | 김성혁 | | |
-| 3주차 | 채상엽 | | |
+| 3주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/02/27/Modern-Java-In-Action-Study-03.html | |
 | 4주차 | 최진영 | https://url.kr/w87u6h | |
 | 4주차 | 김종근 | | |
 | 4주차 | 김현우 | | |
 | 4주차 | 홍동건 | | |
 | 4주차 | 김성혁 | | |
-| 4주차 | 채상엽 | | |
+| 4주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/04/Modern-Java-In-Action-Study-04.html | |
 | 5주차 | 최진영 | https://url.kr/sn1wbu | |
 | 5주차 | 김종근 | | |
 | 5주차 | 김현우 | | |
 | 5주차 | 홍동건 | | |
 | 5주차 | 김성혁 | | |
-| 5주차 | 채상엽 | | |
+| 5주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/11/Modern-Java-In-Action-Study-05.html| |
 | 6주차 | 최진영 | https://url.kr/togh4m | |
 | 6주차 | 김종근 | | |
 | 6주차 | 김현우 | | |
 | 6주차 | 홍동건 | | |
 | 6주차 | 김성혁 | | |
-| 6주차 | 채상엽 | | |
+| 6주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/19/Modern-Java-In-Action-Study-06.html| |
 | 7주차 | 최진영 | https://url.kr/q3lafx | |
 | 7주차 | 김종근 | | |
 | 7주차 | 김현우 | | |
 | 7주차 | 홍동건 | | |
 | 7주차 | 김성혁 | | |
-| 7주차 | 채상엽 | | |
+| 7주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/25/Modern-Java-In-Action-07.html| |
 | 8주차 | 최진영 | https://url.kr/dtbi94 | |
 | 8주차 | 김종근 | | |
 | 8주차 | 김현우 | | |
 | 8주차 | 홍동건 | | |
 | 8주차 | 김성혁 | | |
-| 8주차 | 채상엽 | | |
+| 8주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/04/02/Modern-Java-In-Action-Study-08.html| |
 
 ## 웹을 지탱하는 기술
 | 주차 | 이름 | 공유 Link | MVP 여부 |
