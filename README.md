@@ -84,37 +84,37 @@
 | 1주차 | 김현우 | | |
 | 1주차 | 홍동건 | | |
 | 1주차 | 김성혁 | | |
-| 1주차 | 채상엽 | | |
+| 1주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/02/13/%EC%9B%B9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-Study-01.html| |
 | 2주차 | 최진영 | https://url.kr/eg5py2 | |
 | 2주차 | 김종근 | | |
 | 2주차 | 김현우 | | |
 | 2주차 | 홍동건 | | |
 | 2주차 | 김성혁 | | |
-| 2주차 | 채상엽 | | |
+| 2주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/02/28/%EC%9B%B9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-Study-02.html| |
 | 3주차 | 최진영 | https://url.kr/v9mfi8 | |
 | 3주차 | 김종근 | | |
 | 3주차 | 김현우 | | |
 | 3주차 | 홍동건 | | |
 | 3주차 | 김성혁 | | |
-| 3주차 | 채상엽 | | |
+| 3주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/05/%EC%9B%B9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-Study-03.html| |
 | 4주차 | 최진영 | https://url.kr/w87u6h | |
 | 4주차 | 김종근 | | |
 | 4주차 | 김현우 | | |
 | 4주차 | 홍동건 | | |
 | 4주차 | 김성혁 | | |
-| 4주차 | 채상엽 | | |
+| 4주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/12/%EC%9B%B9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-Study-04.html| |
 | 5주차 | 최진영 | https://url.kr/sn1wbu | |
 | 5주차 | 김종근 | | |
 | 5주차 | 김현우 | | |
 | 5주차 | 홍동건 | | |
 | 5주차 | 김성혁 | | |
-| 5주차 | 채상엽 | | |
+| 5주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/12/%EC%9B%B9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-Study-05.html| |
 | 6주차 | 최진영 | https://url.kr/togh4m | |
 | 6주차 | 김종근 | | |
 | 6주차 | 김현우 | | |
 | 6주차 | 홍동건 | | |
 | 6주차 | 김성혁 | | |
-| 6주차 | 채상엽 | | |
+| 6주차 | 채상엽 | https://saint6839.github.io/sproutt-2nd/2022/03/26/%EC%9B%B9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-Study-06.html| |
 | 7주차 | 최진영 | https://url.kr/q3lafx | |
 | 7주차 | 김종근 | | |
 | 7주차 | 김현우 | | |
