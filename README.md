@@ -44,3 +44,4 @@
 | 이름 | 주제 | 공유 Link |
 | --- | --- | -------- |
 | 김성혁 |  | |
+| 최진영 | HttpSession  | https://url.kr/tmq2sw |
