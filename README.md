@@ -29,43 +29,43 @@
 | --- | --- | -------- | ------- |
 | 1주차 | 최진영 | https://url.kr/ob6lf2 | |
 | 1주차 | 김종근 | https://url.kr/txre3i | |
-| 1주차 | 김현우 | | |
+| 1주차 | 김현우 | https://url.kr/pckfnl | |
 | 1주차 | 홍동건 | https://url.kr/2u4ae6 | |
 | 1주차 | 김성혁 | | |
 | 1주차 | 채상엽 | https://url.kr/uh3j1k | |
 | 2주차 | 최진영 | https://url.kr/eg5py2 | |
 | 2주차 | 김종근 | https://url.kr/mi8ept | |
-| 2주차 | 김현우 | | |
+| 2주차 | 김현우 | https://url.kr/yizjp5 | |
 | 2주차 | 홍동건 | https://url.kr/v4lshr | |
 | 2주차 | 김성혁 | | |
 | 2주차 | 채상엽 | https://url.kr/kxtgrq| |
 | 3주차 | 최진영 | https://url.kr/v9mfi8 | |
 | 3주차 | 김종근 | https://url.kr/mdg9l3 | |
-| 3주차 | 김현우 | | |
+| 3주차 | 김현우 | https://url.kr/gebs9o | |
 | 3주차 | 홍동건 | https://url.kr/38eswk | |
 | 3주차 | 김성혁 | | |
 | 3주차 | 채상엽 | https://url.kr/zxem7v | |
 | 4주차 | 최진영 | https://url.kr/w87u6h | |
 | 4주차 | 김종근 | https://url.kr/levh9d | |
-| 4주차 | 김현우 | | |
+| 4주차 | 김현우 | https://url.kr/bq7vhp | |
 | 4주차 | 홍동건 | https://url.kr/qg7vzn | |
 | 4주차 | 김성혁 | | |
 | 4주차 | 채상엽 | https://url.kr/a3us8o| |
 | 5주차 | 최진영 | https://url.kr/sn1wbu | |
 | 5주차 | 김종근 | https://url.kr/w9pslk | |
-| 5주차 | 김현우 | | |
+| 5주차 | 김현우 | https://url.kr/62ukv7 | |
 | 5주차 | 홍동건 | https://url.kr/o8qbik | |
 | 5주차 | 김성혁 | | |
 | 5주차 | 채상엽 | https://url.kr/8e215p| |
 | 6주차 | 최진영 | https://url.kr/togh4m | |
 | 6주차 | 김종근 | https://url.kr/2i9zlc | |
-| 6주차 | 김현우 | | |
+| 6주차 | 김현우 | https://url.kr/wo2tna | |
 | 6주차 | 홍동건 | https://url.kr/dvr1wb | |
 | 6주차 | 김성혁 | | |
 | 6주차 | 채상엽 | https://url.kr/n627oe| |
 | 7주차 | 최진영 | https://url.kr/q3lafx | |
 | 7주차 | 김종근 | https://url.kr/2i9zlc | |
-| 7주차 | 김현우 | | |
+| 7주차 | 김현우 | https://url.kr/o48mub | |
 | 7주차 | 홍동건 | https://url.kr/u4pej1 | |
 | 7주차 | 김성혁 | | |
 | 7주차 | 채상엽 | https://url.kr/mgvqc4| |
