@@ -31,49 +31,49 @@
 | 1주차 | 김종근 | https://url.kr/txre3i | |
 | 1주차 | 김현우 | | |
 | 1주차 | 홍동건 | https://url.kr/2u4ae6 | |
-| 1주차 | 김성혁 | | |
+| 1주차 | 김성혁 | https://url.kr/dvtgzr | |
 | 1주차 | 채상엽 | https://url.kr/uh3j1k | |
 | 2주차 | 최진영 | https://url.kr/eg5py2 | |
 | 2주차 | 김종근 | https://url.kr/mi8ept | |
 | 2주차 | 김현우 |  | |
 | 2주차 | 홍동건 | https://url.kr/v4lshr | |
-| 2주차 | 김성혁 | | |
+| 2주차 | 김성혁 | https://url.kr/slq91w | |
 | 2주차 | 채상엽 | https://url.kr/kxtgrq| |
 | 3주차 | 최진영 | https://url.kr/v9mfi8 | |
 | 3주차 | 김종근 | https://url.kr/mdg9l3 | |
 | 3주차 | 김현우 |  | |
 | 3주차 | 홍동건 | https://url.kr/38eswk | |
-| 3주차 | 김성혁 | | |
+| 3주차 | 김성혁 | https://url.kr/toxjw7 | |
 | 3주차 | 채상엽 | https://url.kr/zxem7v | |
 | 4주차 | 최진영 | https://url.kr/w87u6h | |
 | 4주차 | 김종근 | https://url.kr/levh9d | |
 | 4주차 | 김현우 |  | |
 | 4주차 | 홍동건 | https://url.kr/qg7vzn | |
-| 4주차 | 김성혁 | | |
+| 4주차 | 김성혁 | https://url.kr/toxjw7 | |
 | 4주차 | 채상엽 | https://url.kr/a3us8o| |
 | 5주차 | 최진영 | https://url.kr/sn1wbu | |
 | 5주차 | 김종근 | https://url.kr/w9pslk | |
 | 5주차 | 김현우 |  | |
 | 5주차 | 홍동건 | https://url.kr/o8qbik | |
-| 5주차 | 김성혁 | | |
+| 5주차 | 김성혁 | https://url.kr/oftn6m | |
 | 5주차 | 채상엽 | https://url.kr/8e215p| |
 | 6주차 | 최진영 | https://url.kr/togh4m | |
 | 6주차 | 김종근 | https://url.kr/2i9zlc | |
 | 6주차 | 김현우 |  | |
 | 6주차 | 홍동건 | https://url.kr/dvr1wb | |
-| 6주차 | 김성혁 | | |
+| 6주차 | 김성혁 | https://url.kr/nys6bf | |
 | 6주차 | 채상엽 | https://url.kr/n627oe| |
 | 7주차 | 최진영 | https://url.kr/q3lafx | |
 | 7주차 | 김종근 | https://url.kr/2i9zlc | |
 | 7주차 | 김현우 |  | |
 | 7주차 | 홍동건 | https://url.kr/u4pej1 | |
-| 7주차 | 김성혁 | | |
+| 7주차 | 김성혁 | https://url.kr/nys6bf | |
 | 7주차 | 채상엽 | https://url.kr/mgvqc4| |
 | 8주차 | 최진영 | https://url.kr/dtbi94 | |
 | 8주차 | 김종근 | https://url.kr/rcjzgl | |
 | 8주차 | 김현우 | | |
 | 8주차 | 홍동건 | https://url.kr/s95tor | |
-| 8주차 | 김성혁 | | |
+| 8주차 | 김성혁 | https://url.kr/qgmtae | |
 | 8주차 | 채상엽 | https://url.kr/odnfcs| |
 
 ## 웹을 지탱하는 기술
