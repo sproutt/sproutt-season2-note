@@ -59,13 +59,13 @@
 | 5주차 | 채상엽 | https://url.kr/8e215p| |
 | 6주차 | 최진영 | https://url.kr/togh4m | |
 | 6주차 | 김종근 | https://url.kr/2i9zlc | |
-| 6주차 | 김현우 | https://url.kr/39bsry | |
+| 6주차 | 김현우 | https://url.kr/1vqgnt | |
 | 6주차 | 홍동건 | https://url.kr/dvr1wb | |
 | 6주차 | 김성혁 | https://url.kr/nys6bf | |
 | 6주차 | 채상엽 | https://url.kr/n627oe| |
 | 7주차 | 최진영 | https://url.kr/q3lafx | |
 | 7주차 | 김종근 | https://url.kr/2i9zlc | |
-| 7주차 | 김현우 | https://url.kr/1vqgnt | |
+| 7주차 | 김현우 | https://url.kr/39bsry | |
 | 7주차 | 홍동건 | https://url.kr/u4pej1 | |
 | 7주차 | 김성혁 | https://url.kr/nys6bf | |
 | 7주차 | 채상엽 | https://url.kr/mgvqc4| |
