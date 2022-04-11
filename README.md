@@ -47,7 +47,7 @@
 | 3주차 | 채상엽 | https://url.kr/zxem7v | |
 | 4주차 | 최진영 | https://url.kr/w87u6h | |
 | 4주차 | 김종근 | https://url.kr/levh9d | |
-| 4주차 | 김현우 | https://url.kr/jacb7d | |
+| 4주차 | 김현우 | https://url.kr/k4io3r | |
 | 4주차 | 홍동건 | https://url.kr/qg7vzn | |
 | 4주차 | 김성혁 | https://url.kr/toxjw7 | |
 | 4주차 | 채상엽 | https://url.kr/a3us8o| |
