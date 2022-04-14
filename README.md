@@ -74,8 +74,8 @@
 | 8주차 | 김현우 | https://url.kr/6zobt5 | |
 | 8주차 | 홍동건 | https://url.kr/s95tor | |
 | 8주차 | 김성혁 | https://url.kr/qgmtae | |
-| 8주차 | 채상엽 | https://url.kr/odnfcs| |
-| 9주차 | 최진영 | | |
+| 8주차 | 채상엽 | https://url.kr/odnfcs | |
+| 9주차 | 최진영 | https://url.kr/odnfcs | |
 | 9주차 | 김종근 | | |
 | 9주차 | 김현우 | https://url.kr/cpbydq | |
 | 9주차 | 홍동건 | https://url.kr/lmqp8k | |
