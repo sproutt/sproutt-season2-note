@@ -76,13 +76,13 @@
 | 8주차 | 김성혁 | https://url.kr/qgmtae | |
 | 8주차 | 채상엽 | https://url.kr/odnfcs | |
 | 9주차 | 최진영 | https://url.kr/odnfcs | |
-| 9주차 | 김종근 | | |
+| 9주차 | 김종근 | https://url.kr/nm1f3b | |
 | 9주차 | 김현우 | https://url.kr/cpbydq | |
 | 9주차 | 홍동건 | https://url.kr/lmqp8k | |
 | 9주차 | 김성혁 | https://url.kr/mrz3k2 | |
 | 9주차 | 채상엽 | | |
 | 10주차 | 최진영 | https://url.kr/i4uvn1 | |
-| 10주차 | 김종근 | | |
+| 10주차 | 김종근 | https://url.kr/3kip8y | |
 | 10주차 | 김현우 | | |
 | 10주차 | 홍동건 | | |
 | 10주차 | 김성혁 | https://url.kr/k2snim | |
@@ -140,13 +140,13 @@
 | 7주차 | 김성혁 | https://url.kr/h4ciyl | |
 | 7주차 | 채상엽 | | |
 | 8주차 | 최진영 | https://url.kr/dtbi94 | |
-| 8주차 | 김종근 | | |
+| 8주차 | 김종근 | https://url.kr/jl61nk | |
 | 8주차 | 김현우 | https://url.kr/e9rajf | |
 | 8주차 | 홍동건 | https://url.kr/pe8ixn | |
 | 8주차 | 김성혁 | https://url.kr/9j6dk3 | |
 | 8주차 | 채상엽 | | |
 | 9주차 | 최진영 | https://url.kr/uj6csq | |
-| 9주차 | 김종근 | | |
+| 9주차 | 김종근 | https://url.kr/m31unr | |
 | 9주차 | 김현우 | | |
 | 9주차 | 홍동건 | | |
 | 9주차 | 김성혁 | https://url.kr/716wo2 | |
@@ -191,3 +191,4 @@
 | 김현우 | String '+' 연산의 작동 원리  | https://url.kr/jpy3n9 |
 | 김현우 | final   | https://url.kr/tbuhyl |
 | 김현우 | HandlerMapping에서 order 필요성  | https://url.kr/1hq7gr |
+| 김종근 | TCP 헤더 살펴보기 | https://url.kr/bhusg3 |
