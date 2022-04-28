@@ -80,13 +80,13 @@
 | 9주차 | 김현우 | https://url.kr/cpbydq | |
 | 9주차 | 홍동건 | https://url.kr/lmqp8k | |
 | 9주차 | 김성혁 | https://url.kr/mrz3k2 | |
-| 9주차 | 채상엽 | | |
+| 9주차 | 채상엽 | https://url.kr/2z8egq | |
 | 10주차 | 최진영 | https://url.kr/i4uvn1 | |
 | 10주차 | 김종근 | https://url.kr/3kip8y | |
 | 10주차 | 김현우 | https://url.kr/953n2t | |
 | 10주차 | 홍동건 | | |
 | 10주차 | 김성혁 | https://url.kr/k2snim | |
-| 10주차 | 채상엽 | | |
+| 10주차 | 채상엽 | https://url.kr/tzxkdr| |
 | 11주차 | 최진영 | https://url.kr/39fdni | |
 | 11주차 | 김종근 | | |
 | 11주차 | 김현우 | | |
@@ -138,25 +138,25 @@
 | 7주차 | 김현우 | https://url.kr/o48mub | |
 | 7주차 | 홍동건 | https://url.kr/m4is31 | |
 | 7주차 | 김성혁 | https://url.kr/h4ciyl | |
-| 7주차 | 채상엽 | | |
+| 7주차 | 채상엽 | https://url.kr/zclbrn| |
 | 8주차 | 최진영 | https://url.kr/dtbi94 | |
 | 8주차 | 김종근 | https://url.kr/jl61nk | |
 | 8주차 | 김현우 | https://url.kr/e9rajf | |
 | 8주차 | 홍동건 | https://url.kr/pe8ixn | |
 | 8주차 | 김성혁 | https://url.kr/9j6dk3 | |
-| 8주차 | 채상엽 | | |
+| 8주차 | 채상엽 | https://url.kr/8x3y1o | |
 | 9주차 | 최진영 | https://url.kr/uj6csq | |
 | 9주차 | 김종근 | https://url.kr/m31unr | |
 | 9주차 | 김현우 | https://url.kr/klgbiu | |
 | 9주차 | 홍동건 | | |
 | 9주차 | 김성혁 | https://url.kr/716wo2 | |
-| 9주차 | 채상엽 | | |
+| 9주차 | 채상엽 | https://url.kr/iga2yp | |
 | 10주차 | 최진영 | https://url.kr/fahboe | |
 | 10주차 | 김종근 | | |
 | 10주차 | 김현우 | | |
 | 10주차 | 홍동건 | | |
 | 10주차 | 김성혁 | | |
-| 10주차 | 채상엽 | | |
+| 10주차 | 채상엽 | https://url.kr/tgwl3c | |
 
 ## 자바 기본기 미션
 | 주차 | 이름 | 공유 Link | MVP 여부 |
@@ -166,7 +166,7 @@
 | 1주차 | 김현우 | | |
 | 1주차 | 홍동건 | | |
 | 1주차 | 김성혁 | | |
-| 1주차 | 채상엽 | | |
+| 1주차 | 채상엽 | https://url.kr/bn4rdl | |
 | 2주차 | 최진영 | | |
 | 2주차 | 김종근 | | |
 | 2주차 | 김현우 | | |
