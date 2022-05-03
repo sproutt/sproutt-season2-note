@@ -28,7 +28,7 @@
 | 주차 | 이름 | 공유 Link | MVP 여부 |
 | --- | --- | -------- | ------- |
 | 1주차 | 최진영 | https://url.kr/ob6lf2 | |
-| 1주차 | 김종근 | https://url.kr/txre3i | |
+| 1주차 | 김종근 | https://url.kr/txre3i | ✔️ |
 | 1주차 | 김현우 | | |
 | 1주차 | 홍동건 | https://url.kr/2u4ae6 | |
 | 1주차 | 김성혁 | https://url.kr/dvtgzr | |
