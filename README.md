@@ -89,7 +89,7 @@
 | 10주차 | 채상엽 | https://url.kr/tzxkdr| |
 | 11주차 | 최진영 | https://url.kr/39fdni | |
 | 11주차 | 김종근 | | |
-| 11주차 | 김현우 | | |
+| 11주차 | 김현우 | https://url.kr/syu4o2 | |
 | 11주차 | 홍동건 | | |
 | 11주차 | 김성혁 | | |
 | 11주차 | 채상엽 | https://url.kr/qac95h | |
@@ -153,7 +153,7 @@
 | 9주차 | 채상엽 | https://url.kr/iga2yp | |
 | 10주차 | 최진영 | https://url.kr/fahboe | |
 | 10주차 | 김종근 | | |
-| 10주차 | 김현우 | | |
+| 10주차 | 김현우 | https://url.kr/m765o3 | |
 | 10주차 | 홍동건 | | |
 | 10주차 | 김성혁 | | |
 | 10주차 | 채상엽 | https://url.kr/tgwl3c | |
@@ -169,7 +169,7 @@
 | 1주차 | 채상엽 | https://url.kr/bn4rdl | |
 | 2주차 | 최진영 | https://url.kr/olpxzs | |
 | 2주차 | 김종근 | | |
-| 2주차 | 김현우 | | |
+| 2주차 | 김현우 | https://url.kr/1zfexo | |
 | 2주차 | 홍동건 | | |
 | 2주차 | 김성혁 | | |
 | 2주차 | 채상엽 | https://url.kr/g2yc7r | |
