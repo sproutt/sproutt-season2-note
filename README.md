@@ -38,8 +38,8 @@
 | 2주차 | 김현우 | https://url.kr/jacb7d | |
 | 2주차 | 홍동건 | https://url.kr/v4lshr | |
 | 2주차 | 김성혁 | https://url.kr/slq91w | |
-| 2주차 | 채상엽 | https://url.kr/kxtgrq| |
-| 3주차 | 최진영 | https://url.kr/v9mfi8 | |
+| 2주차 | 채상엽 | https://url.kr/kxtgrq|  ✔️ |
+| 3주차 | 최진영 | https://url.kr/v9mfi8 | ✔️ |
 | 3주차 | 김종근 | https://url.kr/mdg9l3 | |
 | 3주차 | 김현우 | https://url.kr/k4io3r | |
 | 3주차 | 홍동건 | https://url.kr/38eswk | |
