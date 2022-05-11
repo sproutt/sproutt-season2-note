@@ -85,20 +85,20 @@
 | 10주차 | 김종근 | https://url.kr/3kip8y | |
 | 10주차 | 김현우 | https://url.kr/953n2t | |
 | 10주차 | 홍동건 | https://url.kr/3okie2 | |
-| 10주차 | 김성혁 | https://url.kr/k2snim | |
+| 10주차 | 김성혁 | https://url.kr/c8n5hd | |
 | 10주차 | 채상엽 | https://url.kr/tzxkdr| |
 | 11주차 | 최진영 | https://url.kr/39fdni | |
 | 11주차 | 김종근 | | |
 | 11주차 | 김현우 | https://url.kr/syu4o2 | |
 | 11주차 | 홍동건 | | |
-| 11주차 | 김성혁 | | |
+| 11주차 | 김성혁 | https://url.kr/c8n5hd | |
 | 11주차 | 채상엽 | https://url.kr/qac95h | |
 | 12주차 | 최진영 | https://url.kr/2k31ri | |
 | 12주차 | 김종근 | | |
 | 12주차 | 김현우 | | |
 | 12주차 | 홍동건 | | |
 | 12주차 | 김성혁 | | |
-| 12주차 | 채상엽 | https://url.kr/so9tku | |
+| 12주차 | 채상엽 | | |
 
 
 ## 웹을 지탱하는 기술
@@ -172,20 +172,20 @@
 | 1주차 | 김종근 | | |
 | 1주차 | 김현우 | https://url.kr/o5m6yf | |
 | 1주차 | 홍동건 | | |
-| 1주차 | 김성혁 | | |
+| 1주차 | 김성혁 | https://url.kr/1m5wik | |
 | 1주차 | 채상엽 | https://url.kr/bn4rdl | |
 | 2주차 | 최진영 | https://url.kr/olpxzs | |
 | 2주차 | 김종근 | | |
 | 2주차 | 김현우 | https://url.kr/1zfexo | |
 | 2주차 | 홍동건 | | |
-| 2주차 | 김성혁 | | |
+| 2주차 | 김성혁 | https://url.kr/dw63mv | |
 | 2주차 | 채상엽 | https://url.kr/g2yc7r | |
 | 3주차 | 최진영 | https://url.kr/mf82ot | |
 | 3주차 | 김종근 | | |
 | 3주차 | 김현우 | https://url.kr/dpglkc | |
 | 3주차 | 홍동건 | | |
 | 3주차 | 김성혁 | | |
-| 3주차 | 채상엽 | https://url.kr/l2h5wk | |
+| 3주차 | 채상엽 | | |
 
 
 ## 책 스터디 서기록
